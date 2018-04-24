@@ -1,0 +1,131 @@
+{
+  "Deal": {
+    "identifier": "GB-COH-1234567-5555",
+    "title": "Grant funding for Bristol Wellness Foundation",
+    "status": "Pipeline",
+    "recipientOrganization": {
+      "id": "GB-CHC-2222222",
+      "name": "Bristol Wellness Foundation",
+      "department": "",
+      "contactName": "Sandy Brookner",
+      "charityNumber": "2222222",
+      "companyNumber": "",
+      "streetAddress": "1, Park Row",
+      "addressRegion": "Avon",
+      "addressCountry": "United Kingdom",
+      "postalCode": "BS11AA",
+      "telephone": "",
+      "alternateName": "",
+      "email": "info@bristolwellnessfoundation.org",
+      "description": "The Bristol Wellness Foundation aims to foster a network of mutually supporting wellness professionals across the city.",
+      "organizationType": "Registered Charity",
+      "url": "https://www.bristolwellnessfoundation.org",
+      "location": [
+        {
+          "countryCode": "UK",
+          "latitude": "51.459678",
+          "longitude": "-2.590567",
+          "description": null,
+          "geoCode": null,
+          "geoCodeType": null,
+          "dateModified": ""
+        }
+      ],
+      "dateModified": ""
+    },
+    "arrangingOrganization": {
+      "id": "",
+      "name": "",
+      "department": "",
+      "contactName": "",
+      "charityNumber": "",
+      "companyNumber": "",
+      "streetAddress": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "addressCountry": "",
+      "postalCode": "",
+      "telephone": "",
+      "alternateName": "",
+      "email": "",
+      "description": "",
+      "organizationType": "Registered Charity",
+      "url": "",
+      "location": [
+        {
+          "id": "",
+          "name": null,
+          "countryCode": "AF",
+          "latitude": null,
+          "longitude": null,
+          "description": null,
+          "geoCode": null,
+          "geoCodeType": null,
+          "dateModified": ""
+        }
+      ],
+      "dateModified": ""
+    },
+    "dealDate": null,
+    "investments": {
+      "grants": [
+        {
+          "identifier": "",
+          "currency": "",
+          "value": 0,
+          "fundingOrganizations": [],
+          "fund": {
+            "code": "",
+            "title": null,
+            "description": null,
+            "url": null,
+            "dateModified": ""
+          },
+          "dateAgreed": ""
+        }
+      ],
+      "equity": [
+        {
+          "identifier": "",
+          "currency": "",
+          "value": 0,
+          "fundingOrganizations": [],
+          "fund": {
+            "code": "",
+            "title": null,
+            "description": null,
+            "url": null,
+            "dateModified": ""
+          },
+          "dateAgreed": ""
+        }
+      ],
+      "credit": [
+        {
+          "identifier": "",
+          "currency": "",
+          "value": 0,
+          "fundingOrganizations": [],
+          "fund": {
+            "code": "",
+            "title": null,
+            "description": null,
+            "url": null,
+            "dateModified": ""
+          },
+          "dateAgreed": ""
+        }
+      ]
+    },
+    "projects": [
+      {
+        "identifier": "",
+        "title": "",
+        "description": "",
+        "location": []
+      }
+    ],
+    "dateModified": null,
+    "dataSource": null
+  }
+}
