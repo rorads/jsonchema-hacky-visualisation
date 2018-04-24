@@ -1,0 +1,19 @@
+{
+  "Deal": {
+    "identifier": "",
+    "title": "",
+    "status": "Pipeline",
+    "recipientOrganization": {
+
+    },
+    "arrangingOrganization": {
+
+    },
+    "investments": {
+      "grants": [],
+      "equity": [],
+      "credit": []
+    },
+    "projects": [],
+  }
+}

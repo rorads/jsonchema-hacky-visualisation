@@ -53,6 +53,17 @@ These take the form of webpages. Their components can be extracted via a screens
 
 Before beginning, ensure the following:
 
-1. You have a full, valid JSONSchema which describes your data standard. It doesn't have to be final, but it must be functional (in that all of the references resolve, etc.). See [this schema](https://github.com/SocialEconomyDataLab/spec/blob/master/schema/schema.json) for an example.
-2. You have access too this online tool: https://json-editor.github.io/json-editor. It is the backbone of this process, so play around with your schema and get familiar with the user interface.
-3. OPTIONAL: get to grips with Chrome's 'Overrides' feature - it's really useful for persisting the tweaks you make to CSS.
+* You have a full, valid JSONSchema which describes your data standard. It doesn't have to be final, but it must be functional (in that all of the references resolve, etc.). See [this schema](https://github.com/SocialEconomyDataLab/spec/blob/master/schema/schema.json) for an example.
+* You have access too this online tool: https://json-editor.github.io/json-editor. It is the backbone of this process, so play around with your schema and get familiar with the user interface.
+* OPTIONAL: get to grips with Chrome's 'Overrides' feature - it's really useful for persisting the tweaks you make to CSS.
+
+### Getting your Schema, and Empty Data File
+
+1. create a new directory at `standards/<standard-name>/` and save your JSONSchema file there as `original-schema.json`
+2. go to https://json-editor.github.io/json-editor
+3. scroll down, and paste your whole JSONSchema file into the box labelled 'Schema', and click 'Update Schema'
+4. scroll through the newly generated form and click 'add item' wherever you would like at least one instance of an array to be included in your data
+5. fill out all of the example data you'd like in the form and then copy the resulting JSON data from the 'JSON Output' box and save it to `standards/<standard-name>/full-json-data.json`
+ > note that after added the empty objects, you can copy the file without any data input and fill it later in a text editor if that's your style
+
+### Tweaking Styling
