@@ -1,19 +1,18 @@
 {
   "Deal": {
-    "identifier": "",
-    "title": "",
+    "identifier": "GB-COH-1234567-5555",
+    "title": "Grant funding for Bristol Wellness Foundation",
     "status": "Pipeline",
-    "recipientOrganization": {
-
-    },
-    "arrangingOrganization": {
-
-    },
+    "recipientOrganization": {},
+    "arrangingOrganization": {},
+    "dealDate": null,
     "investments": {
       "grants": [],
       "equity": [],
       "credit": []
     },
     "projects": [],
+    "dateModified": null,
+    "dataSource": null
   }
 }

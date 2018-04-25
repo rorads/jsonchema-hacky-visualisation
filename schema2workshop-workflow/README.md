@@ -47,7 +47,7 @@ The aim of this resource is to guide a semi-technical open data practitioner to 
 
 ![media/schema_markedup_with_data](_media/schema_markedup_with_data.png)
 
-These take the form of webpages. Their components can be extracted via a screenshot, and their structure can be modified with different versions of a JSON data file which adheres to the Schema.
+These take the form of web-pages. Their components can be extracted via a screenshot, and their structure can be modified with different versions of a JSON data file which adheres to the Schema.
 
 ## Walk Through
 
