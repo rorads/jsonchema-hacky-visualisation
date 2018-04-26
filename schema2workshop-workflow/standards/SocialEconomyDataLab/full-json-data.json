@@ -22,7 +22,7 @@
       "url": "https://www.bristolwellnessfoundation.org",
       "location": [
         {
-          "countryCode": "UK",
+          "countryCode": "GB",
           "latitude": "51.459678",
           "longitude": "-2.590567",
           "description": null,
@@ -31,40 +31,40 @@
           "dateModified": ""
         }
       ],
-      "dateModified": ""
+      "dateModified": "2018-01-01"
     },
     "arrangingOrganization": {
-      "id": "",
-      "name": "",
-      "department": "",
-      "contactName": "",
+      "id": "GB-COH-8888888",
+      "name": "Social Finance Funding Cooperative",
+      "department": "Fund Management",
+      "contactName": "Alex Martin",
       "charityNumber": "",
-      "companyNumber": "",
-      "streetAddress": "",
-      "addressLocality": "",
-      "addressRegion": "",
-      "addressCountry": "",
-      "postalCode": "",
-      "telephone": "",
+      "companyNumber": "8888888",
+      "streetAddress": "15, Aspall Row",
+      "addressLocality": "London",
+      "addressRegion": "London",
+      "addressCountry": "United Kingdom",
+      "postalCode": "SE13 7TP",
+      "telephone": "020 7946 0123",
       "alternateName": "",
-      "email": "",
-      "description": "",
-      "organizationType": "Registered Charity",
-      "url": "",
+      "email": "info@sffc.org",
+      "description": "Social Finance Funding Cooperative manages grants, loans, and equity investments for the social finance sector. It is owned and run by its employees.",
+      "organizationType": "Registered Company",
+      "url": "https://sffc.org",
       "location": [
         {
           "id": "",
           "name": null,
-          "countryCode": "AF",
-          "latitude": null,
-          "longitude": null,
+          "countryCode": "GB",
+          "latitude": "51.465931",
+          "longitude": "-0.097566",
           "description": null,
           "geoCode": null,
           "geoCodeType": null,
           "dateModified": ""
         }
       ],
-      "dateModified": ""
+      "dateModified": "2018-01-01"
     },
     "dealDate": null,
     "investments": {
