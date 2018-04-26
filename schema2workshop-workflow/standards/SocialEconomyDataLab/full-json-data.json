@@ -142,7 +142,7 @@
       ],
       "credit": [
         {
-          "identifier": "GB-COH-3939393-E805",
+          "identifier": "GB-COH-3939393-C1011",
           "currency": "GBP",
           "value": 500000,
           "fundingOrganizations": [
@@ -181,10 +181,22 @@
     },
     "projects": [
       {
-        "identifier": "",
-        "title": "",
-        "description": "",
-        "location": []
+        "identifier": "GB-COH-3939393-SWW_BRISTOL",
+        "title": "Sustainable Wellness in Bristol",
+        "description": "This project coordinates funding for the promotion of wellness in the city of Bristol",
+        "location": [
+          {
+            "id": "bristol-location",
+            "name": "Bristol",
+            "countryCode": "GB",
+            "latitude": null,
+            "longitude": null,
+            "description": null,
+            "geoCode": "E28000074",
+            "geoCodeType": "REGD",
+            "dateModified": ""
+          }
+        ]
       }
     ],
     "dateModified": null,
