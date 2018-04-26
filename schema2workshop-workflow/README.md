@@ -66,4 +66,37 @@ Before beginning, ensure the following:
 5. fill out all of the example data you'd like in the form and then copy the resulting JSON data from the 'JSON Output' box and save it to `standards/<standard-name>/full-json-data.json`
  > note that after added the empty objects, you can copy the file without any data input and fill it later in a text editor if that's your style
 
+### Using json-editor
+
+The following configuration options allow for a fiarly clean layout with the ability to collapse features as needed
+
+![config](_media/json-editor-config.png)
+
+These settings can be changed to add in more example data.
+
+### Getting Images
+
+Once you've created all of the example data required, screenshot the components you need.
+
 ### Tweaking Styling
+
+#### Chrome Overrides
+
+Using Google Chrome developer tools, it's now possible to setup local overrides for the styling of websites. Documentation for getting started with this can be found here: https://www.ghacks.net/2018/02/27/make-permanent-changes-to-web-pages-with-chromes-overrides-dev-tool/
+
+In the `styling/` directory there is a pre-made directory which contains a modified version of the json-editor css. it's folder structure is important to preserve:
+
+```
+Styling
+  └── netdna.bootstrapcdn.com
+      └── twitter-bootstrap
+          └── 2.3.2
+              └── css
+                  └── bootstrap-combined.min.css
+```
+
+The default tweaks included expand the canvas and give a more palatable green background.
+
+#### Simple CSS Replace
+
+If you don't want to use chrome, or don't have time to setup the persistent changes, you can always just paste the CSS file included above into your developer tools in any browser to temporarily tweak the styling.
