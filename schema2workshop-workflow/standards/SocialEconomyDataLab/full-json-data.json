@@ -93,13 +93,13 @@
             }
           ],
           "fund": {
-            "code": "",
-            "title": null,
-            "description": null,
-            "url": null,
-            "dateModified": ""
+            "code": "GB-COH-3939393-SOUTHWESTWELLNESS",
+            "title": "South West Wellness Fund",
+            "description": "The South West Wellness Fund is a collection of funds available as grants, loans, and equity investments provided by the Good Finance Initiative. It's aim is to foster a multidimensional increase in health and prosperity in the South West of the United Kingdom",
+            "url": "http://southwestwellness.org/",
+            "dateModified": "2018-01-01"
           },
-          "dateAgreed": ""
+          "dateAgreed": "2017-12-12"
         }
       ],
       "equity": [
