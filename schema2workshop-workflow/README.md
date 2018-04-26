@@ -100,3 +100,11 @@ The default tweaks included expand the canvas and give a more palatable green ba
 #### Simple CSS Replace
 
 If you don't want to use chrome, or don't have time to setup the persistent changes, you can always just paste the CSS file included above into your developer tools in any browser to temporarily tweak the styling.
+
+#### Javascript Button Removal
+
+The json-editor allows a user to toggle the various buttons, but doing so reverses their effect. As a workaround, define the following javascript function in your browswer console, and pass it 'true' or 'false' to show or hide all of the buttons:
+
+```js
+function buttons_showing(true_or_false){ if(true_or_false) {for (let el of document.querySelectorAll('.btn-group')) el.style.visibility = 'visible';} else {for (let el of document.querySelectorAll('.btn-group')) el.style.visibility = 'hidden';}}
+```
