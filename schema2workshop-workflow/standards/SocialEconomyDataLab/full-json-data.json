@@ -22,13 +22,9 @@
       "url": "https://www.bristolwellnessfoundation.org",
       "location": [
         {
-          "countryCode": "GB",
           "latitude": "51.459678",
           "longitude": "-2.590567",
-          "description": null,
-          "geoCode": null,
-          "geoCodeType": null,
-          "dateModified": ""
+          "countryCode": "GB"
         }
       ],
       "dateModified": "2018-01-01"
@@ -70,10 +66,32 @@
     "investments": {
       "grants": [
         {
-          "identifier": "",
-          "currency": "",
-          "value": 0,
-          "fundingOrganizations": [],
+          "identifier": "1546788",
+          "currency": "GBP",
+          "value": 1000000,
+          "fundingOrganizations": [
+            {
+              "id": "GB-COH-3939393",
+              "name": "Good Finance Initiative",
+              "department": "Investments",
+              "contactName": "Kelly Smith",
+              "charityNumber": "",
+              "companyNumber": "3939393",
+              "streetAddress": "1, Goodge Street",
+              "addressLocality": "London",
+              "addressRegion": "London",
+              "addressCountry": "United Kingdom",
+              "postalCode": "SE1 9DF",
+              "telephone": "020 7946 0123",
+              "alternateName": "",
+              "email": "ksmith@goodfinance.org",
+              "description": "The Good Finance Initiative provides grants, loans and equity investments for social good. ",
+              "organizationType": "Registered Company",
+              "url": "https://www.goodfinance.org",
+              "location": [],
+              "dateModified": "2018-01-01"
+            }
+          ],
           "fund": {
             "code": "",
             "title": null,
