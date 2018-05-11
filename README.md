@@ -108,3 +108,5 @@ The json-editor allows a user to toggle the various buttons, but doing so revers
 ```js
 function buttons_showing(true_or_false){ if(true_or_false) {for (let el of document.querySelectorAll('.btn-group')) el.style.visibility = 'visible';} else {for (let el of document.querySelectorAll('.btn-group')) el.style.visibility = 'hidden';}}
 ```
+
+You can then toggle the buttons by entering `buttons_showing(true)` or `buttons_showing(false)` to show or hide the buttons respectively.
