@@ -1,0 +1,205 @@
+{
+  "Deal": {
+    "identifier": "GB-COH-1234567-5555",
+    "title": "Grant funding for Bristol Wellness Foundation",
+    "status": "Pipeline",
+    "recipientOrganization": {
+      "id": "GB-CHC-2222222",
+      "name": "Bristol Wellness Foundation",
+      "department": "",
+      "contactName": "Sandy Brookner",
+      "charityNumber": "2222222",
+      "companyNumber": "",
+      "streetAddress": "1, Park Row",
+      "addressRegion": "Avon",
+      "addressCountry": "United Kingdom",
+      "postalCode": "BS11AA",
+      "telephone": "",
+      "alternateName": "",
+      "email": "info@bristolwellnessfoundation.org",
+      "description": "The Bristol Wellness Foundation aims to foster a network of mutually supporting wellness professionals across the city.",
+      "organizationType": "Registered Charity",
+      "url": "https://www.bristolwellnessfoundation.org",
+      "location": [
+        {
+          "latitude": "51.459678",
+          "longitude": "-2.590567",
+          "countryCode": "GB"
+        }
+      ],
+      "dateModified": "2018-01-01"
+    },
+    "arrangingOrganization": {
+      "id": "GB-COH-8888888",
+      "name": "Social Finance Funding Cooperative",
+      "department": "Fund Management",
+      "contactName": "Alex Martin",
+      "charityNumber": "",
+      "companyNumber": "8888888",
+      "streetAddress": "15, Aspall Row",
+      "addressLocality": "London",
+      "addressRegion": "London",
+      "addressCountry": "United Kingdom",
+      "postalCode": "SE13 7TP",
+      "telephone": "020 7946 0123",
+      "alternateName": "",
+      "email": "info@sffc.org",
+      "description": "Social Finance Funding Cooperative manages grants, loans, and equity investments for the social finance sector. It is owned and run by its employees.",
+      "organizationType": "Registered Company",
+      "url": "https://sffc.org",
+      "location": [
+        {
+          "id": "",
+          "name": null,
+          "countryCode": "GB",
+          "latitude": "51.465931",
+          "longitude": "-0.097566",
+          "description": null,
+          "geoCode": null,
+          "geoCodeType": null,
+          "dateModified": ""
+        }
+      ],
+      "dateModified": "2018-01-01"
+    },
+    "dealDate": null,
+    "investments": {
+      "grants": [
+        {
+          "identifier": "GB-COH-3939393-G1222",
+          "currency": "GBP",
+          "value": 50000,
+          "fundingOrganizations": [
+            {
+              "id": "GB-COH-3939393",
+              "name": "Good Finance Initiative",
+              "department": "Investments",
+              "contactName": "Kelly Smith",
+              "charityNumber": "",
+              "companyNumber": "3939393",
+              "streetAddress": "1, Goodge Street",
+              "addressLocality": "London",
+              "addressRegion": "London",
+              "addressCountry": "United Kingdom",
+              "postalCode": "SE1 9DF",
+              "telephone": "020 7946 0123",
+              "alternateName": "",
+              "email": "ksmith@goodfinance.org",
+              "description": "The Good Finance Initiative provides grants, loans and equity investments for social good. ",
+              "organizationType": "Registered Company",
+              "url": "https://www.goodfinance.org",
+              "location": [],
+              "dateModified": "2018-01-01"
+            }
+          ],
+          "fund": {
+            "code": "GB-COH-3939393-SOUTHWESTWELLNESS",
+            "title": "South West Wellness Fund",
+            "description": "The South West Wellness Fund is a collection of funds available as grants, loans, and equity investments provided by the Good Finance Initiative. It's aim is to foster a multidimensional increase in health and prosperity in the South West of the United Kingdom",
+            "url": "http://southwestwellness.org/",
+            "dateModified": "2018-01-01"
+          },
+          "dateAgreed": "2017-12-12"
+        }
+      ],
+      "equity": [
+        {
+          "identifier": "GB-COH-3939393-E805",
+          "currency": "GBP",
+          "value": 1000000,
+          "fundingOrganizations": [
+            {
+              "id": "GB-COH-3939393",
+              "name": "Good Finance Initiative",
+              "department": "Investments",
+              "contactName": "Kelly Smith",
+              "charityNumber": "",
+              "companyNumber": "3939393",
+              "streetAddress": "1, Goodge Street",
+              "addressLocality": "London",
+              "addressRegion": "London",
+              "addressCountry": "United Kingdom",
+              "postalCode": "SE1 9DF",
+              "telephone": "020 7946 0123",
+              "alternateName": "",
+              "email": "ksmith@goodfinance.org",
+              "description": "The Good Finance Initiative provides grants, loans and equity investments for social good. ",
+              "organizationType": "Registered Company",
+              "url": "https://www.goodfinance.org",
+              "location": [],
+              "dateModified": "2018-01-01"
+            }
+          ],
+          "fund": {
+            "code": "GB-COH-3939393-SOUTHWESTWELLNESS",
+            "title": "South West Wellness Fund",
+            "description": "The South West Wellness Fund is a collection of funds available as grants, loans, and equity investments provided by the Good Finance Initiative. It's aim is to foster a multidimensional increase in health and prosperity in the South West of the United Kingdom",
+            "url": "http://southwestwellness.org/",
+            "dateModified": "2018-01-01"
+          },
+          "dateAgreed": "2017-12-12"
+        }
+      ],
+      "credit": [
+        {
+          "identifier": "GB-COH-3939393-C1011",
+          "currency": "GBP",
+          "value": 500000,
+          "fundingOrganizations": [
+            {
+              "id": "GB-COH-3939393",
+              "name": "Good Finance Initiative",
+              "department": "Investments",
+              "contactName": "Kelly Smith",
+              "charityNumber": "",
+              "companyNumber": "3939393",
+              "streetAddress": "1, Goodge Street",
+              "addressLocality": "London",
+              "addressRegion": "London",
+              "addressCountry": "United Kingdom",
+              "postalCode": "SE1 9DF",
+              "telephone": "020 7946 0123",
+              "alternateName": "",
+              "email": "ksmith@goodfinance.org",
+              "description": "The Good Finance Initiative provides grants, loans and equity investments for social good. ",
+              "organizationType": "Registered Company",
+              "url": "https://www.goodfinance.org",
+              "location": [],
+              "dateModified": "2018-01-01"
+            }
+          ],
+          "fund": {
+            "code": "GB-COH-3939393-SOUTHWESTWELLNESS",
+            "title": "South West Wellness Fund",
+            "description": "The South West Wellness Fund is a collection of funds available as grants, loans, and equity investments provided by the Good Finance Initiative. It's aim is to foster a multidimensional increase in health and prosperity in the South West of the United Kingdom",
+            "url": "http://southwestwellness.org/",
+            "dateModified": "2018-01-01"
+          },
+          "dateAgreed": "2017-12-12"
+        }
+      ]
+    },
+    "projects": [
+      {
+        "identifier": "GB-COH-3939393-SWW_BRISTOL",
+        "title": "Sustainable Wellness in Bristol",
+        "description": "This project coordinates funding for the promotion of wellness in the city of Bristol",
+        "location": [
+          {
+            "id": "bristol-location",
+            "name": "Bristol",
+            "countryCode": "GB",
+            "latitude": null,
+            "longitude": null,
+            "description": null,
+            "geoCode": "E28000074",
+            "geoCodeType": "REGD",
+            "dateModified": ""
+          }
+        ]
+      }
+    ],
+    "dateModified": null,
+    "dataSource": null
+  }
+}
